@@ -1,1 +1,78 @@
+# 👋 Hi, I'm Yohanis Desalegn!
+
+🎓 **Software Engineering Student at Jimma University**  
+💻 Currently learning **Full-Stack Web Development** (HTML, CSS, JavaScript, React, Node.js)  
+📚 Exploring **Java**, **Data Structures**, and **Operating Systems**  
+🚀 Dreaming to become a **Skilled Full-Stack Developer**   
+
+---
+
+## 🧰 Tech Stack
+
+**Languages:**  
+☕ Java • 💛 JavaScript • 🌐 HTML5 • 🎨 CSS3 • 🗄️ SQL  
+
+**Frameworks & Tools:**  
+⚛️ React • 🌿 Node.js • 🎀 Tailwind CSS • 🧭 Git • 🐙 GitHub • 🧩 VS Code  
+
+---
+
+## 📊 GitHub Stats
+
+![Wakoya's GitHub stats](https://github-readme-stats.vercel.app/api?username=wakoya-daba&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wakoya-daba&layout=compact&theme=radical)
+![Trophy](https://github-profile-trophy.vercel.app/?username=wakoya-daba&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+![Wakoya's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wakoya-daba&theme=react-dark)
+
+---
+
+## 🌱 Currently Learning
+🔹 Front-End Frameworks: React, Tailwind CSS  
+🔹 Back-End Development: Node.js, Express  
+🔹 Database Design: SQL, Normalization, Query Optimization  
+🔹 Advanced Theology and Christian Apologetics  
+
+---
+
+## 🧠 Featured Projects
+- 🧾 **Student Information System** (OOSE Project)  
+- 📚 **E-Library Database Design**  
+- ⚙️ **CPU Scheduling Simulation**  
+- 📖 **Youth Bible Study Planner**
+
+---
+
+## 💪 Skills Progress
+**Frontend:** HTML (90%) • CSS (85%) • JavaScript (80%) • React (75%)  
+**Backend:** Node.js (70%) • SQL (80%) • Git/GitHub (85%)  
+**Other:** Theology & Apologetics (95%)
+
+---
+
+## 🎯 Hobbies & Interests
+📖 Deep Bible Study & Theology  
+💻 Coding Challenges & Full-Stack Projects  
+🧩 Logic Puzzles & Problem Solving  
+🎵 Music & Creative Writing  
+
+---
+
+## 📫 Connect with Me
+📧 **Email:** [wakoyatech@gmail.com](mailto:dearj4128@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/Joheaven7](linkedin.com/in/Joheaven7)  
+🌐 **Portfolio:** [Joheaven.github.io](https://wakoya-tech.github.io)   
+🐦 **Twitter:** [@DesalegnYo](https://twitter.com/DesalegnYo)
+
+
+## ⚡ Fun Badge Section
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=wakoya-daba)
+[![Twitter Follow](https://img.shields.io/twitter/follow/wakoya_tech?style=social)](https://twitter.com/wakoya_tech)
+
+---
+
+### Popular Repositories
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wakoya-daba&repo=my-react-practice&theme=radical)](https://github.com/wakoya-daba/my-react-practice)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wakoya-daba&repo=e-library-app1&theme=radical)](https://github.com/wakoya-daba/e-library-app1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wakoya-daba&repo=to-do-list-app&theme=radical)](https://github.com/wakoya-daba/to-do-list-app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wakoya-daba&repo=color-picker&theme=radical)](https://github.com/wakoya-daba/color-picker)
 "# Joheaven7" 
