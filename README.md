@@ -35,22 +35,21 @@
 ---
 
 ## 🧠 Featured Projects
-- 🧾 **Student Information System** (OOSE Project)  
-- 📚 **E-Library Database Design**  
-- ⚙️ **CPU Scheduling Simulation**  
-- 📖 **Youth Bible Study Planner**
+- 🧾 **Password Generator**  
+- 📚 **Quiz app**  
+- ⚙️ **Currency Converter**  
+- 📖 **Color Palette Generator**
+- 💴 **Pricing Cards**
 
 ---
 
 ## 💪 Skills Progress
 **Frontend:** HTML (90%) • CSS (85%) • JavaScript (80%) • React (75%)  
 **Backend:** Node.js (70%) • SQL (80%) • Git/GitHub (85%)  
-**Other:** Theology & Apologetics (95%)
 
 ---
 
-## 🎯 Hobbies & Interests
-📖 Deep Bible Study & Theology  
+## 🎯 Hobbies & Interests  
 💻 Coding Challenges & Full-Stack Projects  
 🧩 Logic Puzzles & Problem Solving  
 🎵 Music & Creative Writing  
