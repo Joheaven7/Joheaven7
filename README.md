@@ -71,7 +71,7 @@
 ---
 
 ### 🗂️ Popular Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Joheaven7&repo=my-react-practice&theme=radical)](https://github.com/Joheaven7/my-react-practice)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Joheaven7&repo=e-library-app1&theme=radical)](https://github.com/Joheaven7/e-library-app1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Joheaven7&repo=to-do-list-app&theme=radical)](https://github.com/Joheaven7/to-do-list-app)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Joheaven7&repo=color-picker&theme=radical)](https://github.com/Joheaven7/color-picker)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Joheaven7&repo=Pricing-Cards.J-&theme=radical)](https://github.com/Joheaven7/Pricing-Cards.J-)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Joheaven7&repo=Password-Generator_987&theme=radical)](https://github.com/Joheaven7/Password-Generator_987)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Joheaven7&repo=JohnDear&theme=radical)](https://github.com/Joheaven7/JohnDear)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Joheaven7&repo=johevean7&theme=radical)](https://github.com/Joheaven7/johevean7)
