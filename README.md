@@ -69,11 +69,6 @@
 
 ---
 
-### 🗂️ Popular Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Joheaven7&repo=Pricing-Cards.J-&theme=radical)](https://github.com/Joheaven7/Pricing-Cards.J-)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Joheaven7&repo=Password-Generator_987&theme=radical)](https://github.com/Joheaven7/Password-Generator_987)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Joheaven7&repo=JohnDear&theme=radical)](https://github.com/Joheaven7/JohnDear)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Joheaven7&repo=johevean7&theme=radical)](https://github.com/Joheaven7/johevean7)
----
+
 
 
