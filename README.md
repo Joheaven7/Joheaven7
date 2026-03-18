@@ -30,7 +30,6 @@
 🔹 Front-End Frameworks: React, Tailwind CSS  
 🔹 Back-End Development: Node.js, Express  
 🔹 Database Design: SQL, Normalization, Query Optimization  
-🔹 Advanced Theology and Christian Apologetics  
 
 ---
 
